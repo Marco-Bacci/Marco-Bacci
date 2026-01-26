@@ -26,7 +26,7 @@ Mi piace imparare attraverso progetti pratici, curare i dettagli e scrivere codi
 
 ### 🚀 My Projects
 
-#### 🎧 [Audiospecs] (https://progetto-finale-spec-frontend-front-bice.vercel.app)
+#### 🎧 [Audiospecs](https://progetto-finale-spec-frontend-front-bice.vercel.app)
 Una SPA che simula l’esperienza di un utente non autenticato, che può:
 - Sfogliare, cercare e filtrare record
 - Confrontare più elementi tra loro
@@ -36,17 +36,23 @@ Una SPA che simula l’esperienza di un utente non autenticato, che può:
 **Repo:** https://github.com/Marco-Bacci/audiospecs-demo.git  
 **Live:** https://progetto-finale-spec-frontend-front-bice.vercel.app
 
+────────────
+
+
 #### 🎩 Arcadia
 E-commerce completo dedicato alla vendita di giochi di società.  
 
 **Tech:** HTML, CSS, JavaScript, React, Bootstrap, Node, Express, MySQL  
 **Repo:** https://github.com/Marco-Bacci/arcadia.git  
 
-#### 🟢 [Spotify Clone] (https://marco-bacci.github.io/html-css-spotifyweb/)
+────────────
+
+
+#### 🟢 [Spotify Clone](https://marco-bacci.github.io/html-css-spotifyweb/)
 Clone statico e responsive di web-app di Spotify  
 
-**Tech:** HTML, CSS
-**Repo:** https://github.com/Marco-Bacci/html-css-spotifyweb.git
+**Tech:** HTML, CSS  
+**Repo:** https://github.com/Marco-Bacci/html-css-spotifyweb.git  
 **Live:** https://marco-bacci.github.io/html-css-spotifyweb/
 
 ---
