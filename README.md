@@ -63,8 +63,9 @@ Clone statico e responsive di web-app di Spotify
 | --- | --- |
 
 ### 🔗 Connect with me
-- LinkedIn: https://www.linkedin.com/in/marco-bacci-02786614a/  
-- Portfolio: coming soon  
+🔹 [LinkedIn](https://www.linkedin.com/in/marco-bacci-02786614a/) 
+🔸 [Portfolio](https://marco-bacci.github.io/portfolio/)
+
 
 
 
