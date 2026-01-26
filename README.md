@@ -1,7 +1,9 @@
 # Marco Bacci
 **`Full-Stack Jr Web Developer`**
 
-descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione descrizione 
+Sono un Junior Web Developer con una forte passione per lo sviluppo frontend e per la creazione di interfacce moderne, responsive e usabili.  
+Sto costruendo solide basi in HTML, CSS e JavaScript, lavorando con framework come React e strumenti moderni del web.  
+Mi piace imparare attraverso progetti pratici, curare i dettagli e scrivere codice chiaro, mantenibile e orientato alle buone pratiche.
 
 ---
 
