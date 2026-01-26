@@ -44,6 +44,7 @@ E-commerce completo dedicato alla vendita di giochi di società.
 
 #### 🟢 [Spotify Clone] (https://marco-bacci.github.io/html-css-spotifyweb/)
 Clone statico e responsive di web-app di Spotify  
+
 **Tech:** HTML, CSS
 **Repo:** https://github.com/Marco-Bacci/html-css-spotifyweb.git
 **Live:** https://marco-bacci.github.io/html-css-spotifyweb/
