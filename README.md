@@ -53,7 +53,7 @@ Repo: https://github.com/Marco-Bacci/html-css-spotifyweb.git
 ---
 
 ### Connect with me
-- LinkedIn: [https://linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/marco-bacci-02786614a/)
+- LinkedIn: https://www.linkedin.com/in/marco-bacci-02786614a/
 - Portfolio: coming soon
 
 
