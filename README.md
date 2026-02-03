@@ -38,7 +38,7 @@ Una SPA che simula l’esperienza di un utente non autenticato, che può:
 
 ────────────
 
-### 🎮 [Memory-game](https://marco-bacci.github.io/memory-game/)
+#### 🎮 [Memory-game](https://marco-bacci.github.io/memory-game/)
 Gioco classico del MEMORY realizzato in puro JavaScript, basato su immagini ispirate agli anni ’90 e 2000.
 Ancora in fase di sviluppo.  Coming soon:   
 -statistiche di gioco  
