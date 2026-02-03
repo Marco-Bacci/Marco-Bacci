@@ -45,9 +45,9 @@ Ancora in fase di sviluppo.  Coming soon:
 -livelli di difficoltà  
 -miglioramenti grafici  
 
-**Tech:** HTML, CSS, JavaScript, Bootstrap 
-**Repo:** https://github.com/Marco-Bacci/memory-game.git
-**Live:** https://marco-bacci.github.io/memory-game/
+**Tech:** HTML, CSS, JavaScript, Bootstrap  
+**Repo:** https://github.com/Marco-Bacci/memory-game.git  
+**Live:** https://marco-bacci.github.io/memory-game/  
 
 ────────────
 
